@@ -1,2 +1,2 @@
 # panda-commerce-bootstrap
-It'a Ecommerce Website  
+It'a responsive Ecommerce Website  
